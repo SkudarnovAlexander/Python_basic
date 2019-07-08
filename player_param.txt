@@ -1,0 +1,5 @@
+health 100
+damage 20
+evasion 30
+armor 1.2
+armor_chance 70
